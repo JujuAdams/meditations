@@ -20,7 +20,7 @@ Juju and Jing would like to thank [Jupiter Hadley](https://twitter.com/jupiter_h
 
 This simple music toy was written in the space of a few days in early September 2019. The game is designed to be run from the browser using HTML5, but it should run ok on Windows and Mac (and probably other platforms too). There's nothing especially clever in here. Juju neatened up the code after release so it's a bit easier to read, but this is basically the final release version of the game. Please DM Juju on Twitter or send an email to contact@jujuadams.com if you'd like to get in touch.
 
-The most complex part of this system is synth_step() which handles how arrows move around on the grid. Performance is always a concern when writing cross-platform code so Juju decided to take a slightly unusual route with the metaballs; the metaballs themselves are handled as values in a handful of arrays. Otherwise, this is standard GML with no surprises.
+The most complex part of this system is [synth_step()](https://github.com/JujuAdams/meditations/blob/master/scripts/synth_step/synth_step.gml) which handles how arrows move around on the grid. Performance is always a concern when writing cross-platform code so Juju decided to take a slightly unusual route with the metaballs; the metaballs themselves are handled as values in a handful of arrays. Otherwise, this is standard GML with no surprises.
 
 &nbsp;
 
