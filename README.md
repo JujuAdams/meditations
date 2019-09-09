@@ -1,7 +1,9 @@
 # A Message from Amalthea
 ### @jujuadams and @Spiderlily666
 
-Music toy made for the 2019 Meditations project (9th September). Please note that is project is licensed as **All Rights Reserved**. You may learn from this project but not repurpose its art assets, audio, or code.
+Music toy made for the 2019 Meditations project (9th September).
+
+Please note that is project is licensed as **All Rights Reserved**. You may learn from this project but not repurpose its art assets, audio, or code.
 
 &nbsp;
 
