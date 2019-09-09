@@ -1,0 +1,4 @@
+Volume Slider
+Make tonal change more obvious / Timeline?
+Add arrow controls
+Label buttons
