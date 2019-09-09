@@ -14,7 +14,7 @@ Music toy made for the 2019 Meditations project (9th September). Designed to run
 
 *Inspired by Otomata: https://earslap.com/page/otomata.html*
 
-Juju and Jing would like to thank Jupiter Hadley and Quang Nguyen for their help with this small project, and their endless, selfless support of developers around the globe.
+Juju and Jing would like to thank [Jupiter Hadley](https://twitter.com/jupiter_hadley) and [Quang Nguyen](https://twitter.com/asobitech/) for their help with this small project, and their endless, selfless support of developers around the globe.
 
 &nbsp;
 
