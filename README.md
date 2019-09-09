@@ -1,9 +1,10 @@
-# A Message from Amalthea
+<h1 align="center">A Message from Amalthea</h1>
+
 ### @jujuadams and @Spiderlily666
 
-Music toy made for the 2019 Meditations project (9th September).
+Music toy made for the 2019 Meditations project (9th September). Designed to run in the browser on multiple platforms.
 
-Please note that is project is licensed as **All Rights Reserved**. You may learn from this project but not repurpose its art assets, audio, or code.
+*Please note that this repo and its contents are licensed as **All Rights Reserved**. You may learn from this project but not repurpose its art assets, audio, or code.*
 
 &nbsp;
 
