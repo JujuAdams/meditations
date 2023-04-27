@@ -8,9 +8,9 @@ Please note that this repo and its contents are licensed as **All Rights Reserve
 
 &nbsp;
 
-**Code, design:** [Juju Adams](https://twitter.com/jujuadams)
+**Code, design:** [Juju Adams](https://www.jujuadams.com/)
 
-**Audio, design:** [Jing Chun Tan](https://twitter.com/Spiderlily666)
+**Audio, design:** [Jing Chun Tan](https://www.spiderlili.com/)
 
 **Inspired by Otomata:** https://earslap.com/page/otomata.html
 
